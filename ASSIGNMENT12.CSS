@@ -1,0 +1,31 @@
+.one h1{
+ text-align: center;
+ font-size: 60px;
+ color:#40bfbf;
+ text-shadow: -5px 8px #f9bc06 ,
+              -10px 16px #d22d2d ,
+              -15px 24px  #d926d9;
+}
+
+.two{
+  color: green;
+  font-size: 40px;
+  text-decoration: line-through;
+  text-decoration-color: #ADFF2F;
+}
+.p1{
+  color:#40bfbf;
+    font-size: large;
+}
+.p2{
+  color:#d22d2d;
+  font-size: xx-large;
+}
+.p3{
+  color: #d926d9;
+    font-size: large;
+}
+.p4{
+  color:#f9bc06;
+    font-size: large;
+}
